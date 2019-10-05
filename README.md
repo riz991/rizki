@@ -1,2 +1,2 @@
 # rizki
-android
+Sistem Informasi Tempaat Penitipan Anak
